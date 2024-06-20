@@ -4,7 +4,7 @@ Multi-sector specialist building mathematical & computational systems at scale i
 
 **Legal Disclaimer**: The content and work presented in this portfolio are intended solely for academic and demonstrative purposes. The opinions and ideas expressed herein are exclusively those of Philip Ndikum and do not represent the views or opinions of any affiliated institutions or employers, whether past, present, or future. Unless explicitly stated otherwise, no portion of this portfolio includes open-source software or implies a license for its use. All software associated with the research papers and projects presented is proprietary and remains unavailable for public use.
 
-## 📖 Academic
+## 📖 Academic & Technical Expertise for Innovation
 
 Academic career spanning mathematical and computational sciences, with a focus on mathematical finance and mathematical physics (ODEs, PDEs, SDEs), numerical analysis, and stochastic simulations. Core implementations utilize Python and C++ supplemented by Julia for stochastic simulations and MATLAB for numerical linear algebra. Education enhanced by time series analysis and interdisciplinary projects, integrating formal business school modules. Graduate level teaching experience at Harvard (Mathematical Physics) and Oxford (Finance & MBA) in addition to lead instructor on AI & Data Science software bootcamps. Other: Pro-bono volunteering for charities, Recreational Powerlifting, Former student-athlete (Rugby).  
 
